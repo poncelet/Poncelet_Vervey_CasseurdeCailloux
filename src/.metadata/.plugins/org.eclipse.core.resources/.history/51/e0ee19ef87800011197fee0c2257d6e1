@@ -1,0 +1,5 @@
+package contrats;
+
+public class ErreurPostcondition {
+
+}

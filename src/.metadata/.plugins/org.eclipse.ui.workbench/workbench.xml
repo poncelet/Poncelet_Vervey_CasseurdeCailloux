@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="13" version="2.0">
+<workbenchAdvisor/>
+<window height="768" width="1024" x="0" y="24">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="100" y="34"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="116" y="34"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="100" y="34"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="76" y="34"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="116" y="34"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="172" y="34"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1333784979934" focus="true" label="Espace de travail - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Bloc.java" partName="Bloc.java" path="/home/clem/master/CPS/Projet/src/CasseurdeCailloux/src/impl/Bloc.java" title="Bloc.java" tooltip="CasseurdeCailloux/src/impl/Bloc.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CasseurdeCailloux/src/impl/Bloc.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="71" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Terrain.java" partName="Terrain.java" path="/home/clem/master/CPS/Projet/src/CasseurdeCailloux/src/impl/Terrain.java" title="Terrain.java" tooltip="CasseurdeCailloux/src/impl/Terrain.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CasseurdeCailloux/src/impl/Terrain.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1648" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MoteurJeu.java" partName="MoteurJeu.java" path="/home/clem/master/CPS/Projet/src/CasseurdeCailloux/src/impl/MoteurJeu.java" title="MoteurJeu.java" tooltip="CasseurdeCailloux/src/impl/MoteurJeu.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CasseurdeCailloux/src/impl/MoteurJeu.java"/>
+<editorState selectionHorizontalPixel="32" selectionLength="0" selectionOffset="1735" selectionTopPixel="629"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Hiérarchie"/>
+<view id="org.eclipse.ui.views.ProblemView" partName="Erreurs">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Erreurs">
+<expanded>
+<category IMemento.internal.id="Erreurs (2 éléments)"/>
+<category IMemento.internal.id="Erreurs"/>
+<category IMemento.internal.id="Avertissements"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="73" org.eclipse.ui.ide.markerType="108" org.eclipse.ui.ide.pathField="143" org.eclipse.ui.ide.resourceField="108" org.eclipse.ui.ide.severityAndDescriptionField="434"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Explorateur de packages">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="Aggregate for window 1333784979934">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Structure">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Déclaration"/>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Explorateur de packages"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="Hiérarchie"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@2875ca3e" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.24950495" ratioLeft="252" ratioRight="758" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.7488" ratioLeft="468" ratioRight="157" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Erreurs"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Déclaration"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.74934036" ratioLeft="568" ratioRight="190" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Structure"/>
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CasseurdeCailloux/src/impl/Terrain.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CasseurdeCailloux/src/impl/MoteurJeu.java"/>
+</editors>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="42" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="190" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="249" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1646" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1646" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="399" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1646" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="132" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="153" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="1735" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="153" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="1735" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="251" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="1184" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="153" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="437" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1354" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="1227" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1354" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="559" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="599" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="630" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1648" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="1227" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="1267" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="1345" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="1345" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1648" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1643" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="1338" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1643" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="1333" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1643" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="1333" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="632" y="0"/>
+</item>
+<item historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="895" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1643" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1523" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1611" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1639" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="837" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="792" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="813" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="837" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1039" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1065" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1100" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1272" y="0"/>
+</item>
+<item historyLabel="Terrain.java" index="0">
+<position info="not_deleted" x="1648" y="0"/>
+</item>
+<item active="true" historyLabel="MoteurJeu.java" index="1">
+<position info="not_deleted" x="895" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="left"/>
+</trimArea>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="bottom"/>
+<trimItem IMemento.internal.id="right"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MoteurJeu.java" tooltip="CasseurdeCailloux/src/impl/MoteurJeu.java">
+<persistable path="/CasseurdeCailloux/src/impl/MoteurJeu.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Terrain.java" tooltip="CasseurdeCailloux/src/impl/Terrain.java">
+<persistable path="/CasseurdeCailloux/src/impl/Terrain.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TypeBloc.java" tooltip="CasseurdeCailloux/src/services/TypeBloc.java">
+<persistable path="/CasseurdeCailloux/src/services/TypeBloc.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Bloc.java" tooltip="CasseurdeCailloux/src/impl/Bloc.java">
+<persistable path="/CasseurdeCailloux/src/impl/Bloc.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EtatJeu.java" tooltip="CasseurdeCailloux/src/services/EtatJeu.java">
+<persistable path="/CasseurdeCailloux/src/services/EtatJeu.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TypeDirection.java" tooltip="CasseurdeCailloux/src/services/TypeDirection.java">
+<persistable path="/CasseurdeCailloux/src/services/TypeDirection.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TerrainService.java" tooltip="CasseurdeCailloux/src/services/TerrainService.java">
+<persistable path="/CasseurdeCailloux/src/services/TerrainService.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MoteurService.java" tooltip="CasseurdeCailloux/src/services/MoteurService.java">
+<persistable path="/CasseurdeCailloux/src/services/MoteurService.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BlocService.java" tooltip="CasseurdeCailloux/src/services/BlocService.java">
+<persistable path="/CasseurdeCailloux/src/services/BlocService.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DecorateurMoteur.java" tooltip="CasseurdeCailloux/src/decorateurs/DecorateurMoteur.java">
+<persistable path="/CasseurdeCailloux/src/decorateurs/DecorateurMoteur.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DecorateurTerrain.java" tooltip="CasseurdeCailloux/src/decorateurs/DecorateurTerrain.java">
+<persistable path="/CasseurdeCailloux/src/decorateurs/DecorateurTerrain.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DecorateurBloc.java" tooltip="CasseurdeCailloux/src/decorateurs/DecorateurBloc.java">
+<persistable path="/CasseurdeCailloux/src/decorateurs/DecorateurBloc.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ErreurPostcondition.java" tooltip="CasseurdeCailloux/src/contrats/ErreurPostcondition.java">
+<persistable path="/CasseurdeCailloux/src/contrats/ErreurPostcondition.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ErreurPrecondition.java" tooltip="CasseurdeCailloux/src/contrats/ErreurPrecondition.java">
+<persistable path="/CasseurdeCailloux/src/contrats/ErreurPrecondition.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ErreurInvariant.java" tooltip="CasseurdeCailloux/src/contrats/ErreurInvariant.java">
+<persistable path="/CasseurdeCailloux/src/contrats/ErreurInvariant.java"/>
+</file>
+</mruList>
+</workbench>

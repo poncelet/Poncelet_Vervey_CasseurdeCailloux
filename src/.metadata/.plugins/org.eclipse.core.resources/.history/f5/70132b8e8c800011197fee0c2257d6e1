@@ -1,0 +1,11 @@
+package impl;
+
+import services.EtatJeu;
+
+public class MoteurJeu {
+	private Terrain Jeu;
+	private int PasMax;
+	private int Pas;
+	private int NbDiamant;
+	private EtatJeu etat;
+}

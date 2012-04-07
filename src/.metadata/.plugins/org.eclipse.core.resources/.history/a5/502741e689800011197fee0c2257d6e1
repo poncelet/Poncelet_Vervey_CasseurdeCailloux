@@ -1,0 +1,10 @@
+package impl;
+
+import services.TypeBloc;
+
+public class Bloc {
+	TypeBloc type;
+	
+	Bloc() {type = VIDE;}
+	
+}

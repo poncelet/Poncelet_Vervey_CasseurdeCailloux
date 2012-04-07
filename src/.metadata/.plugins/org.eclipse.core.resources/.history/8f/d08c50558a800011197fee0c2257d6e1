@@ -1,0 +1,14 @@
+package impl;
+
+import services.TypeBloc;
+
+public class Bloc {
+	TypeBloc type;
+	
+	public Bloc() {type = TypeBloc.VIDE;}
+	
+	public TypeBloc PrendreType() {return type;}
+	
+	public void MettreType()
+	
+}

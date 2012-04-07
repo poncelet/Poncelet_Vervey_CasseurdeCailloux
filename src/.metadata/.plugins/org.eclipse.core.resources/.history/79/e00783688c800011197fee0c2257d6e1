@@ -1,0 +1,8 @@
+package impl;
+
+public class MoteurJeu {
+	private Terrain Jeu;
+	private int PasMax;
+	private int Pas;
+	private int NbDiamantMax;
+}

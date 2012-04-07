@@ -1,0 +1,34 @@
+package impl;
+
+import services.EtatJeu;
+import services.TypeDirection;
+
+public class MoteurJeu {
+	private Terrain Jeu;
+	private int PasMax;
+	private int Pas;
+	private int NbDiamant;
+	private EtatJeu etat;
+	
+	public MoteurJeu() {
+		Jeu = null;
+		PasMax = 0;
+		Pas = 0;
+		NbDiamant = 0;
+		etat = EtatJeu.INIT;
+	}
+	
+	/**
+	 * Cette méthode ne peut etre lancée que si le Jeu est Encours
+	 * A savoir : Jeu != null, PasMax != 0 (Donc Etat = ENCOURS) fonction de test ?
+	 * 
+	 */
+	public void Calcul(TypeDirection d) {
+		// Attention bornes (test Terrain ?)
+		for(int x = 1; x < Jeu.PrendreX()+1; x++) {
+			for(int y = 1 ; y < Jeu.PrendreY()+1; y++) {
+				//Mettre à jour le Terrain (chute)
+			}
+		}
+	}
+}
